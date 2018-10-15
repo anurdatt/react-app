@@ -17,8 +17,8 @@ const LocationData = [
     zip: "400020"//"94088"
   },
   {
-    name: "Delhi",//"Santa Cruz",
-    zip: "110092" //"95062"
+    name: "Santa Cruz",// "Delhi",
+    zip:  "95062" // "110092"
   },
   {
     name: "Chennai",

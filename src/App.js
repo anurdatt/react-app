@@ -18,7 +18,7 @@ const LocationData = [
   },
   {
     name: "Delhi", //"Santa Cruz",
-    zip:  "110092" //"95062" 
+    zip:  "110092" //"95062"
   },
   {
     name: "Chennai",
@@ -84,7 +84,7 @@ class App extends Component {
         <Navbar>
           <Navbar.Header>
             <Navbar.Brand>
-              React Simple Weather App
+              Simple Weather App
             </Navbar.Brand>
           </Navbar.Header>
         </Navbar>
